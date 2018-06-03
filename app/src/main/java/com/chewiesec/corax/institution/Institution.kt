@@ -1,6 +1,5 @@
 package com.chewiesec.corax.institution
 
-import android.content.Context
 import android.location.Location
 import com.chewiesec.corax.searchplacesapi.IPlaceSearch
 import com.chewiesec.corax.searchplacesapi.OnGetPlaceInformationCallback
